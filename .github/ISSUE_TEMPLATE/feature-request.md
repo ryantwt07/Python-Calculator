@@ -1,0 +1,54 @@
+---
+name: Feature Request
+about: Template for Feature Request
+title: "[FTR] - "
+labels: 'Good First Issue :new:, New Feature :1st_place_medal:'
+assignees: Rubikscube2007
+
+---
+
+## Checklist
+
+- [ ] Signed CLA (Contributors License Agreement)
+- [ ] All commits have been signed.
+- [ ] There isn't a pull request with the same solution to the PR or issue.
+- [ ] You have read the files README.md and CONTRIBUTING.md
+
+## PR Information
+- [ ] Repository Changes
+- [ ] Python File
+- [ ] Other(s), please specify
+
+<hr>
+
+If you have anwer Python File for the above question, please answer the next question. If not, leave the next one blank and continue on to the next question.
+
+## Python File Sections Changes
+
+- [ ] Variables
+- [ ] Error (Input)
+- [ ] Imports
+- [ ] Definitons
+- [ ] User Input
+- [ ] Solving
+
+## Information About PR
+
+### What is the issue about?
+
+
+
+
+
+### Are there any linking issues or PRs?
+
+
+
+###  Feature you wish to add.
+
+
+
+
+
+
+<!-- Thank you for filling up our form! Enjoy coding! -->
