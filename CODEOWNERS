@@ -1,3 +1,7 @@
-@ryantwt07
+/build/ @ryantwt07 @Rubikscube2007
 
-.py @ryantwt07 @Rubikscube2007
+*.py @ryantwt07 @Rubikscube2007
+
+/.github/ @ryantwt07
+
+* @ryantwt07
