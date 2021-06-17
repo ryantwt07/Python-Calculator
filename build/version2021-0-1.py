@@ -37,7 +37,7 @@ else:
 # ---- DEFINITIONS ---- #
 
 def work_in_progress():
- 	print("This function is a work in progress.")
+	print("This function is a work in progress.")
 def addition(num1, num2):
 	answer = num1 + num2
 	print(answer)
