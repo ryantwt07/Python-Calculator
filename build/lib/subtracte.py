@@ -1,4 +1,4 @@
-def input():
+def inp():
 	num1 = float(input("Enter First Number: "))
 	num2 = float(input("Enter Second Number: "))
 
