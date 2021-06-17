@@ -3,5 +3,5 @@ def input():
 	num2 = float(input("Enter Second Number: "))
 
 def calculate():
-	anwer = num1 + num2
+	anwer = num1 * num2
 	print(answer)
